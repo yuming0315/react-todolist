@@ -18,4 +18,6 @@ git commit -m "first commit"
 git push -u origin main
 git pull / push를 할 때 origin master를 지정하지 않아도 알아서 origin master로 붙여서 가져오라는 옵션.
 
+2022-10-30
+17:41
 변경
